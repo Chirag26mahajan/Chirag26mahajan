@@ -1,4 +1,5 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYmM8vs770u_HEfaheY-E-tCgHhDjCXCiwfg&usqp=CAU)
+<MasterHead img align ="centre">
 <h1 align="center">Hi 👋, I'm Chirag Mahajan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="500px" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
