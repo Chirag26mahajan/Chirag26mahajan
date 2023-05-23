@@ -1,4 +1,4 @@
-![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg](https://res.cloudinary.com/practicaldev/image/fetch/s--g1HuidbV--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png))
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYmM8vs770u_HEfaheY-E-tCgHhDjCXCiwfg&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Chirag Mahajan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="500px" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
