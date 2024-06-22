@@ -2,9 +2,9 @@
     <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="MasterHead" style="max-height: 100px; width: auto;">
 </MasterHead>
 <h1 align="center">Hi 👋, I'm Chirag Gupta</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **Js React**
+- 🌱 I’m currently learning **ReactJs, TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
