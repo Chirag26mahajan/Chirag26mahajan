@@ -1,5 +1,6 @@
-![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
-<MasterHead img align ="centre">
+<MasterHead img align="center">
+    <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="MasterHead" style="max-height: 200px; width: auto;">
+</MasterHead>
 <h1 align="center">Hi 👋, I'm Chirag Gupta</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
