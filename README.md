@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **MERN stack project**
  
- 🌱 I’m currently learning **NodeJs **
+ 🌱 I’m currently learning **NodeJs and Aws**
 
  </div>
  
