@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MERN stack project**
+ 🔭 I’m currently working on **MERN Stack Projects**
  
  🌱 I’m currently learning **NodeJs**
 
