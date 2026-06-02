@@ -16,7 +16,7 @@
 
  </div>
  
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="mailto:chiragmahajan26.cm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -26,7 +26,7 @@
   <a href="https://instagram.com/_chiragmahajann__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-</div>
+</div> -->
 
 
  <hr/>
